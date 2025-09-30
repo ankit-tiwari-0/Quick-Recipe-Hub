@@ -1,0 +1,22 @@
+Recipe Finder Website
+
+This is a simple Recipe Finder website built using HTML, CSS, and JavaScript. It allows users to search for recipes based on ingredients or dish names and displays recipe details using a public API.
+
+📖 What This Project Does
+
+Users can type an ingredient or dish name into a search bar.
+
+The website fetches matching recipes from an online API.
+
+It shows recipe names, images, ingredients, and instructions.
+
+🛠️ Built With
+
+HTML – Structure of the webpage
+
+CSS – Styling and layout
+
+JavaScript – Making the site interactive and calling the API
+
+TheMealDB API
+ – Free API to get recipe data
