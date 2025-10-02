@@ -20,3 +20,6 @@ JavaScript – Making the site interactive and calling the API
 
 TheMealDB API
  – Free API to get recipe data
+
+ 🔗 **Live Demo**: [Click here to view](https://ankit-tiwari-0.github.io/Quick-Recipe-Hub/)
+
